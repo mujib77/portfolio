@@ -1,4 +1,7 @@
 const skills = [
+  "Golang",
+  "Docker",
+  "linux",
   "React",
   "Node.js",
   "PostgreSQL",
@@ -8,6 +11,7 @@ const skills = [
   "SQL",
   "GitHub",
   "Postman",
+  "typescript",
 ];
 
 function Skills() {
